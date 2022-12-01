@@ -1,4 +1,3 @@
-# Project Proposal (Data606)
 
 # LUNG CANCER PREDICTION USING MACHINE LEARNING MODELS
 
@@ -80,7 +79,6 @@ Youtube video link: https://www.youtube.com/watch?v=6Jo3xUdL0-c
   ## References:
 
   1. [Lung Cancer Survival Prediction via Machine Learning Regression, Classification, and Statistical Techniques. ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6634305/#:~:text=Studies%20have%20evaluated%20lung%20cancer%20patient%20survival%20by,%5D%2C%20and%20ensemble%20clustering-based%20approaches%20%5B%206%20%5D.)
-<br />
 
 2. [Lung cancer prediction using machine learning and advanced imaging techniques. ](https://pubmed.ncbi.nlm.nih.gov/30050768/)
 
